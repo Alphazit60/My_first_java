@@ -1,2 +1,2 @@
 # Hello world in java
-Myy first project in Java
+My first project in Java to print hello world
